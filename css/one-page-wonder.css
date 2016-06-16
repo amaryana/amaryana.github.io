@@ -10,6 +10,12 @@ p {
 h3 {
   text-align: center;
 }
+a {
+  text-align: center;
+}
+img {
+  text-align: center;
+}
 
 .header-image {
     display: block;
