@@ -57,6 +57,7 @@ img {
 
 .featurette {
     overflow: hidden;
+    text-align: center;
 }
 
 .featurette-image.pull-left {
