@@ -75,6 +75,7 @@ img {
   font-size: 20px;
   font-family: arial;
   color: black;
+  list-style-type: none;
 }
 footer {
     margin: 50px 0;
