@@ -15,6 +15,9 @@ a {
 img {
   text-align: center;
 }
+.nav navbar-nav, a {
+  color: white;
+}
 
 .header-image {
     display: block;
