@@ -18,6 +18,7 @@ img {
 
 .header-image {
     display: block;
+    max-width: 100%;
     width: 100%;
     text-align: center;
     background: url('https://i.ytimg.com/vi/T40NSkd7Olc/maxresdefault.jpg') repeat center center scroll;
@@ -198,4 +199,9 @@ footer {
         margin-bottom: 10px;
         margin-left: 0;
     }
+}
+.skills_img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
 }
