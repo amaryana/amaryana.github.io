@@ -24,6 +24,8 @@ img {
     max-width: 100%;
     width: 100%;
     text-align: center;
+    margin-right: 33%;
+    margin-left: 33%;
     background: url('https://i.ytimg.com/vi/T40NSkd7Olc/maxresdefault.jpg') repeat center center scroll;
     -webkit-background-size: cover;
     -moz-background-size: cover;
@@ -39,6 +41,7 @@ img {
 }
 
 .headline {
+    padding: 120px 0;
     text-align: center;
 }
 
