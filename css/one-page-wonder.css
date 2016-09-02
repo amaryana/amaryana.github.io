@@ -15,6 +15,9 @@ a {
 img {
   text-align: center;
 }
+.name_img {
+  text-align: cneter;
+}
 
 .header-image {
     display: block;
